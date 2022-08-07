@@ -1,4 +1,5 @@
 # Creating with React App
+<b> Course IT Women - Front End </b> 
 
 This is a project from the course Front End.  
 
